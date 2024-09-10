@@ -1,0 +1,18 @@
+[
+    {
+        "ServerName": "Japanese",
+        "WebAPI": "http://35.74.238.151/"
+    },
+    {
+        "ServerName": "Spanish",
+        "WebAPI": "http://18.188.175.107/"
+    },
+    {
+        "ServerName": "Thai",
+        "WebAPI": "http://52.221.247.45/"
+    },
+    {
+        "ServerName": "Mongolian",
+        "WebAPI": "http://35.72.182.54/"
+    },
+]
